@@ -1,0 +1,377 @@
+.creative-buttons{
+font-family: Roboto;
+font-size: 15px;
+font-weight: bold;
+margin-right: 7px;
+margin-top: 4px;
+color: white !important;}
+
+.conquest-image {
+border-color: white;
+display: block;
+max-width: 200px;
+max-height: 200px;
+margin-left: auto;
+margin-right: auto; 
+margin-top: 50px;}
+
+.navbar{
+	box-shadow: 5px 0px 10px 1px #141414;
+}
+
+a:hover{
+text-decoration: none;}
+
+.creative-buttons:hover{
+color: #736d77 !important;}
+
+.creative-buttons:focus{
+color: #b33b3b !important;
+background-color: transparent !important;}
+
+.creative-buttons:after{
+background-color: transparent !important;}
+
+.creative-buttons:active{
+background-color: transparent !important;}
+
+li:hover{
+background-color: transparent !important;}
+
+.creative-menu:hover{
+background-color: transparent !important;
+color: #e3181c !important;}
+
+.footer_text{
+color: white;}
+
+.social-buttons{
+color: white;
+border-style: none;
+background-color: transparent;
+transition: color 0.3s;}
+
+.social-buttons:hover{
+color: #690c07;}
+
+.flex-direction-nav .flex-next {
+background-position: 100% 0;
+right: 0px;
+}
+
+.flex-direction-nav .flex-prev {
+left: 0px;
+}
+
+.flexslider{
+border-style: none;}
+
+.btn-default:hover{
+color: white;
+background-color: #e3181c;}
+
+/* Fixing the modal shift bug */
+body.modal-open { overflow:inherit; padding-right:inherit !important; }
+
+.creative-logo{
+margin-top: 0px;
+margin-left: 0px;
+width: 120px;
+height: 50px;}
+
+.img-holder {
+    position: relative;
+}
+
+.img-holder2{
+position: relative;
+}
+
+.img-thumbnail{
+border-style: solid !important;
+border-width: 2px !important;
+border-radius: 0px !important;
+padding: 0px !important;}
+
+.img-holder span{
+	vertical-align: middle;
+	position: absolute;
+	width: 100%;
+	color: white;
+	font-family: Inika;
+	border-radius: 1px;
+	font-size: 50px;
+	display: block;
+	margin-left: 0;
+	background: rgba(0, 0, 0, 0.65);
+	text-align: center;
+	margin-top: -90px;
+	padding-bottom: 17px;
+	transition: 500ms;
+}
+
+.img-holder span:hover{
+margin-top: -170px;
+padding-bottom: 97px;}
+
+.img-holder2 span{
+	vertical-align: middle;
+	position: absolute;
+	width: 100%;
+	color: white;
+	font-family: Inika;
+	border-radius: 1px;
+	font-size: 25px;
+	display: block;
+	margin-left: 0;
+	background: rgba(0, 0, 0, 0.65);
+	text-align: center;
+	margin-top: -54px;
+	padding-bottom: 17px;
+	transition: 500ms;
+}
+
+.img-holder2 span:hover{
+margin-top: -110px;
+padding-bottom: 73px;}
+
+.conquest-btn{
+background-color: #141414;
+border-style: none;
+border-radius: 0px;
+margin: auto;
+display: block;
+margin-top: 20px;
+font-family: sans;
+font-size: 20px;
+transition: background-color 0.3s;
+}
+
+.conquest-btn2{
+background-color: #f1f1f1;
+color: #141414;
+border-style: none;
+border-radius: 0px;
+margin: auto;
+display: block;
+margin-top: 20px;
+font-family: sans;
+font-size: 20px;
+transition: background-color 0.3s;
+}
+
+.conquest-btn:hover{
+background-color: #690c07 !important;
+color: #f1f1f1;}
+
+.conquest-btn2:hover{
+background-color: #690c07 !important;
+color: #f1f1f1;}
+
+.quote-btn{
+font-weight: bold;
+font-size: 15px;
+display: block; 
+position: relative; 
+margin-left: 15px;
+margin-right: 15px;
+margin-top: 27px;
+margin-bottom: 10px;
+background-color: #e3181c;
+color: white;}
+
+.quote-btn:hover{
+background-color: #3d3d3d;
+color: white;}
+
+.submit-btn{
+font-weight: bold;
+font-size: 15px;
+display: block; 
+position: relative; 
+margin-left: 15px;
+margin-right: 15px;
+margin-top: 27px;
+margin-bottom: 10px;
+background-color: #e3181c;
+color: white;}
+
+.submit-btn:hover{
+background-color: white;
+color: #3d3d3d;}
+
+.modal-margin{
+margin-left: 40px;}
+
+.service-form{
+margin-left: 225px;
+margin-right: 250px;}
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.resource-box{
+padding-right: 10px;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 5px;
+margin-top: 30px;
+display: block;
+margin-left: 0px;
+margin-right: 0px;
+border-style: none;
+border-width: thin;
+border-radius: 2px;
+border-color: #3d3d3d;}
+
+.resource-text{
+color: #3d3d3d;
+font-size: 16px;
+font-family: Roboto;
+font-weight: 400;
+margin-top: 10px;
+text-align: center;}
+
+.side-image{
+float: right; 
+margin-top: -100px;
+margin-bottom: -30px;
+margin-right: -50px;}
+
+.side-image-left{
+float: right; 
+margin-top: -100px;
+margin-bottom: -30px;
+margin-left: -50px;
+}
+
+.black-row-top{
+background-color: #141414; 
+padding-top: 130px; 
+padding-bottom: 0px;
+box-shadow: 10px 5px 10px 2px;}
+
+.black-row{
+background-color: #141414; 
+padding-top: 40px; 
+margin-top: 40px;
+padding-bottom: 0px;
+box-shadow: 10px 5px 10px 2px;}
+
+.red-row{
+background-color: #c80c0c;
+margin-top: 40px; 
+padding-top: 40px; 
+padding-bottom: 0px;
+box-shadow: 10px 5px 10px 2px}
+
+.red-box{
+background-color: #c80c0c; 
+margin-top: -40px; 
+padding-top: 130px; 
+padding-bottom: 50px;
+box-shadow: 10px 5px 10px 2px;}
+
+.black-box{
+background-color: #141414; 
+margin-top: -40px; 
+padding-top: 130px; 
+padding-bottom: 50px;}
+
+.paragraph-text{
+text-shadow: 0 1px 4px rgba(0,0,0,0.1); 
+font-size: 20px; display: block; 
+text-align: justify; 
+color: white; 
+margin-bottom: 0px;
+margin-left: 20px;
+margin-right: 20px; 
+font-family: Raleway;}
+
+/* Mobile Media Queries Below this Line */
+
+@media (max-width: 1140px){
+.service-form{
+margin: auto;}
+.flexslider{
+margin-top: 50px !important;}
+.creative-logo{
+	height: 30px;
+	width: 70px;
+	margin-top: -5px;
+}
+.side-image{
+	width: 300px;
+	height: 293px;
+	margin-top: 40px;
+}
+.modal-margin{
+margin-left: 0px;}
+.quote-btn{
+margin-top: 3px;
+margin-bottom: 0px;
+font-size: 12px;}}
+@media (max-width: 836px){
+.side-image{
+margin-right: -90px;
+margin-bottom: 60px;}}
+@media (max-width: 768px){
+.black-row-top{
+padding-bottom: 40px;}
+.black-row{
+.padding-bottom: 40px;}
+.red-row{
+padding-bottom: 40px;}}
+
+/* Changing the Bootstrap navbar breakpoint */
+
+@media (max-width: 1140px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+}
+

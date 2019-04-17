@@ -1,6 +1,6 @@
 # thebreadbook.org
 source for thebreadbook.org
 
-donate at: https://ko-fi.com/thebreadbookorg
-           https://cash.app/$deibu
-           https://venmo.com/deibu
+donate at: https://www.paypal.me/breadbook | 
+           https://cash.app/$deibu | 
+           https://venmo.com/deibu | 
